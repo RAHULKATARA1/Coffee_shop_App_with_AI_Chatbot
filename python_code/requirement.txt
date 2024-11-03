@@ -1,4 +1,6 @@
-pandas==2.0.3
-python.dotenv==1.0.1
-openai==1.50.2
-mlextend==0.23.1 #libray used for this recommendation engine is.
+    pandas==2.0.3
+    python.dotenv==1.0.1
+    openai==1.50.2
+    mlextend==0.23.1
+    pprintpp 0.4.0
+
